@@ -1,0 +1,6 @@
+{
+  "name": "EasyFunnel — Free WooCommerce Sales Funnel & Express Checkout Plugin",
+  "description": "100% Free WordPress plugin for WooCommerce featuring 1-page express checkout, drag-and-drop checkout field customization, sales funnels, all 18 Elementor widgets, incomplete order recovery, and fraud protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
