@@ -10,6 +10,7 @@ const dir = typeof import.meta.dirname !== 'undefined'
 
 export default defineConfig(() => {
   return {
+    base: './',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
