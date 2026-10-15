@@ -1,6 +1,10 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "easyfunnel-landing",
+  "name": "easyfunnel",
+  "compatibility_date": "2026-01-01",
   "pages_build_output_dir": "./dist",
-  "compatibility_date": "2026-01-01"
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
 }
